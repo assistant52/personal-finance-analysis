@@ -85,11 +85,11 @@ jupyter notebook
 
 | # | Notebook | Description |
 |---|----------|-------------|
-| 1 | `1_exploration.ipynb` | Dataset structure, dtypes, nulls |
-| 2 | `2_cleaning.ipynb` | Date parsing, filtering, splitting |
-| 3 | `3_eda.ipynb` | Core business questions |
-| 4 | `4_visualizations.ipynb` | Charts and visual insights |
-| 5 | `5_insights.ipynb` | SQL aggregations via `sqlite3` |
+| 1 | `exploration.ipynb` | Dataset structure, dtypes, nulls |
+| 2 | `cleaning.ipynb` | Date parsing, filtering, splitting |
+| 3 | `EDA.ipynb` | Core business questions |
+| 4 | `visualizations.ipynb` | Charts and visual insights |
+| 5 | `insights.ipynb` | SQL aggregations via `sqlite3` |
 
 ---
 
